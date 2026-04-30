@@ -5,10 +5,10 @@ ________________________________________________________________________________
 
 ## Connect with me
 <p>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:hamzashaikh1654w@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/hamza-shaikh-0414193ab/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
