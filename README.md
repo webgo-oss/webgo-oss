@@ -51,6 +51,11 @@ My goal is to develop impactful technology solutions that bridge the gap between
 <p>
  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+###  3D/Graphic
+<p>
+ <img src="https://skillicons.dev/icons?i=threejs" />
+</p>
 <br><br>
 
 ##  Tech Stack
